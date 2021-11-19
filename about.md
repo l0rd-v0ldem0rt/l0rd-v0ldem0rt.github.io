@@ -6,7 +6,7 @@ permalink: /about/
 
 ### About me
 
-Red/purple teamer
+Wannabe Malware Developer
 
 
 ### Contact me

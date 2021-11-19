@@ -1,2 +1,2 @@
-# 0xPat blog
-## Red/purple teamer
+# Offensive Security blog's
+## Red Teaming
