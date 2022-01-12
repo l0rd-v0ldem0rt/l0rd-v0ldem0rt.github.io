@@ -6,9 +6,12 @@ permalink: /about/
 
 ### About me
 
-n00B !!!! <br/> 
+♫⊙⊙♭ <br/> 
+Cairokee Fan<br/>
 Wannabe Malware Developer<br/>
 "Somewhere in YOUR FOREST, Exploiting TRUST issues !!!!"<br/>
+<br/>
+What choclate did the Egyptians eat? => Pharoh-rochere<br/>
 
 ### Contact me
 
