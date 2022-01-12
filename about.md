@@ -6,9 +6,10 @@ permalink: /about/
 
 ### About me
 
+n00B!!!
 Wannabe Malware Developer
-
+"Somewhere in YOUR FOREST, Exploiting TRUST issues !!!!"
 
 ### Contact me
 
-[@0xPat](https://twitter.com/0xPat)
+[@amanbadhel1993](https://twitter.com/amanbadhel1993)
