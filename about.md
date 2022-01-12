@@ -6,9 +6,9 @@ permalink: /about/
 
 ### About me
 
-n00B!!!
-Wannabe Malware Developer
-"Somewhere in YOUR FOREST, Exploiting TRUST issues !!!!"
+n00B !!!! <br/> 
+Wannabe Malware Developer<br/>
+"Somewhere in YOUR FOREST, Exploiting TRUST issues !!!!"<br/>
 
 ### Contact me
 
